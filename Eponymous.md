@@ -22,6 +22,10 @@
 
 ## COMPLEXITY
 
+### Gall’s Law
+
+> A complex system that works is invariably found to have evolved from a simple system that worked.
+
 ### Pareto Principle
 
 > For many phenomena, 80% of consequences stem from 20% of the causes.
