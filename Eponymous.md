@@ -76,6 +76,10 @@
 
 ## Quotes
 
-### Twain's Secret
+### Mark Twain's Secret
 
 > The secret of getting ahead is getting started.
+
+### Alain de Botton
+
+> Work finally begins when the fear of doing nothing exceeds the fear of doing it badly.
