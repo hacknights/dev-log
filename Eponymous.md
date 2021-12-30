@@ -73,3 +73,9 @@
 ### Peter Principle
 
 > In a hierarchy, every employee tends to rise to his level of incompetence.
+
+## Quotes
+
+### Twain's Secret
+
+> The secret of getting ahead is getting started.
